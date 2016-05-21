@@ -1,0 +1,9 @@
+# android_vendor_oukitel_k6000
+Vendor repository for Oukitel K6000 CM12.1
+
+Currently broken features:
+ * Fm
+ 
+ # Thx to
+ * Olegsvs
+ * Visi0nary
